@@ -83,16 +83,6 @@ This project can be used for:
 
 ---
 
-## 📸 Preview
-
-Add a screenshot here:
-
-```markdown
-![Preview](assets/preview.png)
-```
-
----
-
 ## 🔮 Future Improvements
 
 - 📱 Better mobile optimization
